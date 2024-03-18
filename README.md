@@ -9,7 +9,7 @@ NeighborHire is a project designed to streamline local service hiring processes.
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://https://github.com/Tobbiloba/NeighborHire
     ```
 
 2. **Navigate to the Backend Folder:**
@@ -38,31 +38,25 @@ NeighborHire is a project designed to streamline local service hiring processes.
 
 ### Getting Started
 
-1. **Clone the Repository:**
-
-    ```bash
-    git clone https://github.com/your-username/your-repo.git
-    ```
-
-2. **Navigate to the Frontend Folder:**
+1. **Navigate to the Frontend Folder:**
 
     ```bash
     cd frontend
     ```
 
-3. **Install Dependencies:**
+2. **Install Dependencies:**
 
     ```bash
     npm install
     ```
 
-4. **Start the Frontend:**
+3. **Start the Frontend:**
 
     ```bash
     npm run dev
     ```
 
-5. **Wait for the Frontend to Load:**
+4. **Wait for the Frontend to Load:**
 
     The Frontend is now running on http://localhost:5173.
 
@@ -70,25 +64,19 @@ NeighborHire is a project designed to streamline local service hiring processes.
 
 ### Getting Started
 
-1. **Clone the Repository:**
-
-    ```bash
-    git clone https://github.com/your-username/your-repo.git
-    ```
-
-2. **Navigate to the Mobile Folder:**
+1. **Navigate to the Mobile Folder:**
 
     ```bash
     cd mobile
     ```
 
-3. **Install Dependencies:**
+2. **Install Dependencies:**
 
     ```bash
     npm install
     ```
 
-4. **Start the Mobile Expo:**
+3. **Start the Mobile Expo:**
 
     ```bash
     npm start
