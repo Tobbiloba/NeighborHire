@@ -11,7 +11,6 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
     <div className="w-[100vw] overflow-x-hidden">
       <Menubar />
       {children}
-      <Footer />
     </div>
   )
 }
