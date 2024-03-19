@@ -1,3 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Sans+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Headland+One&family=Madimi+One&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Tektur:wght@400..900&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.headland {
+  font-family: 'Headland One', serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.madimi {
+  font-family: 'Madimi One', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.space {
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+.averia {
+  font-family: 'Averia Sans Libre', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.tektur {
+  font-family: 'Tektur', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.heroBg {
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(#e4e5e6),
+    color-stop(50%, #e9fffb),
+    to(#dfecf4)
+  );
+  background: linear-gradient(90deg, #f0fcfd 0%, #e9eeff 50%, #dfe6f4 100%);
+}
